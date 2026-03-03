@@ -1,4 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m @Jon-bytehub
+- 🏢 Compliance Associate specializing in subcontractor risk, insurance verification, and operational controls.
+- 🎓 Incoming M.S. candidate in Enterprise Risk Management (ERM) @ Columbia.
+- 📦 Background in Supply Chain Management & Information Systems.
+- 📊 Experienced in Excel (advanced formulas & reporting), SQL, Salesforce, SAP SCM, and CRM systems.
+- ⚙️ Focused on risk governance, compliance automation, and process optimization.
+- 🛠 Currently expanding skills in data analytics, Python, and workflow automation.
+- 🔍 Interested in regulatory compliance, enterprise risk strategy, and operational resilience.
+- 📫 Connect professionally via LinkedIn.
 
 <!--
 **Jon-bytehub/Jon-bytehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
